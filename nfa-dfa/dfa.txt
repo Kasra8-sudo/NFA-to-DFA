@@ -1,0 +1,11 @@
+A b B
+A a C
+B b B
+B a B
+C b D
+C a E
+D b D
+D a A
+E b B
+E a A
+result is : accepted
